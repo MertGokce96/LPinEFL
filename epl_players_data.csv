@@ -1,0 +1,348 @@
+Player_Name,Rating,Position,Type,Price,Skill,WF_Skill,Pace,Shooting,Passing,Dribling,Defence,Physicality
+Kevin De Bruyne,91,CAM,Normal,152,4,5,76,86,92,87,61,78
+Mohamed Salah,90,RW,Normal,150,4,3,93,86,81,89,45,74
+Virgil van Dijk,90,CB,Normal,398,2,3,77,60,70,72,90,86
+De Gea,89,GK,Normal,36,1,3,90,84,81,92,57,85
+Sergio Aguero,89,ST,Normal,68.5,4,4,80,90,77,88,33,74
+N'Golo Kante,89,CDM,Normal,196,2,3,78,65,77,81,87,83
+Alisson,89,GK,Normal,36,1,3,85,84,85,89,52,90
+Harry Kane,89,ST,Normal,37.5,3,4,70,91,79,81,47,83
+Paul Pogba,88,CM,Normal,158,5,4,74,81,86,85,66,86
+David Silva,88,CAM,Normal,30.75,4,2,65,74,88,89,52,57
+Ederson,88,GK,Normal,29,1,3,86,82,93,88,64,86
+Raheem Sterling,88,RW,Normal,50,4,3,93,79,78,89,45,57
+Sadio Mane,88,LW,Normal,164,4,4,94,83,77,88,44,74
+Christian Eriksen,88,CAM,Normal,30.5,4,5,73,81,90,84,53,63
+Hugo Lloris,88,GK,Normal,28.25,1,1,89,82,68,91,64,84
+Aubameyang,88,ST,Normal,86,4,4,94,85,75,80,37,69
+Fernandinho,87,CDM,Normal,23.5,3,4,66,74,79,79,84,79
+Bernardo Silva,87,RW,Normal,24,4,3,81,76,83,92,51,67
+Aymeric Laporte,87,CB,Normal,22.75,2,3,64,50,71,69,88,82
+Jan Vertonghen,87,CB,Normal,23,3,3,63,63,74,73,87,79
+Toby Alderweireld,87,CB,Normal,23,2,3,64,55,72,67,88,79
+Heung Min Son,87,CF,Normal,229,4,5,88,86,80,87,42,68
+Leroy Sane,86,LW,Normal,59,4,3,95,81,79,86,38,70
+Roberto Firmino,86,CF,Normal,22,4,4,77,82,80,87,61,78
+Alexandre Lacazette,86,ST,Normal,17,4,4,82,85,75,86,40,74
+Fabinho,85,CDM,Normal,11.75,3,2,68,69,78,77,85,83
+Andrew Robertson,85,LB,Normal,24.5,3,2,85,62,77,79,80,75
+Rodrigo,85,CDM,Normal,10,3,4,67,68,77,78,82,80
+Joao Cancelo,84,RB,Normal,11.5,4,3,90,65,80,84,78,71
+Riyad Mahrez,84,RW,Normal,5.2,5,4,84,78,79,89,38,59
+Kyle Walker,84,RB,Normal,20.5,2,2,91,63,76,77,81,81
+Joao Moutinho,84,CM,Normal,4.8,3,4,56,75,85,82,71,67
+Sokratis,84,CB,Normal,6.3,2,2,72,51,52,61,84,83
+Mesut Ozil,84,CAM,Normal,5,4,2,70,72,86,84,24,56
+Ilkay Gundogan,84,CM,Normal,6.5,4,4,66,74,84,84,72,71
+Kepa Arrizabalaga,84,GK,Normal,5,1,4,84,82,86,85,34,80
+Georginio Wijnaldum,84,CM,Normal,5.3,4,3,77,73,78,85,76,78
+Azpilicueta,84,RB,Normal,8.5,2,3,70,55,77,73,85,76
+Dele Alli,84,CAM,Normal,6,4,3,72,81,79,82,71,79
+Bernd Leno,84,GK,Normal,5.4,1,3,83,81,78,85,55,84
+Felipe Anderson,84,LM,Normal,5.8,4,4,89,77,79,88,55,61
+Luiz Frello Filho Jorge,83,CM,Normal,2.5,3,3,55,63,84,81,70,73
+Davinson Sanchez,83,CB,Normal,5.8,2,3,74,45,57,67,83,81
+Nicolas Pepe,83,RM,Normal,6,4,3,91,81,75,85,33,67
+Jordan Henderson,83,CDM,Normal,2.6,3,3,64,70,83,77,78,80
+Lucas,83,CF,Normal,6.5,4,4,92,79,76,87,42,66
+John Stones,83,CB,Normal,6.5,3,4,68,36,70,72,84,77
+Sebastien Haller,83,ST,Normal,2.3,3,2,72,81,62,76,51,82
+Anthony Martial,83,LW,Normal,8.6,4,3,89,81,72,85,41,71
+David Luiz,83,CB,Normal,4.3,3,3,61,65,74,71,82,77
+Kasper Schmeichel,83,GK,Normal,2.8,1,3,82,77,79,88,58,79
+Rui Paticio,83,GK,Normal,2.6,1,2,84,80,77,82,55,81
+Gylfi Sigurdson,83,CAM,Normal,2,3,4,56,81,84,81,57,69
+Nicholas Otamendi,83,CB,Normal,4.4,2,3,56,57,63,61,83,78
+Wilfried Zaha,83,CF,Normal,4,5,3,91,76,72,87,27,74
+Lucas Digne,83,LB,Normal,4.9,3,3,78,69,79,79,80,76
+Jordan Pickford,83,GK,Normal,3,1,4,82,78,87,86,49,82
+Giovani Lo Celso,83,CM,Normal,2.3,4,3,77,78,82,84,65,72
+Trent Alexander-Arnold,83,RB,Normal,8.6,3,4,80,62,82,78,78,70
+Marcus Rashford,83,ST,Normal,9.8,5,3,92,82,73,83,45,77
+Gabriel Jesus,82,ST,Normal,4.9,4,3,85,80,72,86,39,71
+Olivier Giroud,82,ST,Normal,1.5,3,3,46,81,71,73,42,79
+Juan Mata,82,CAM,Normal,90,4,3,62,74,83,83,36,47
+Pedro,82,RW,Normal,1,4,5,75,77,77,83,43,56
+Antonio Rudiger,82,CB,Normal,2,2,3,72,43,67,64,82,78
+Ricardo Pereira,82,RB,Normal,4.2,3,4,86,64,77,81,79,73
+Naby Keita,82,CM,Normal,1.2,4,4,71,73,76,88,65,66
+Lukasz Fabianski,82,GK,Normal,1.1,1,2,80,83,70,84,49,82
+Willian,82,RW,Normal,2.9,4,4,85,78,80,85,49,60
+Xherdan Shaqiri,82,RW,Normal,1.7,5,4,80,77,81,85,46,69
+Joel Matip,82,CB,Normal,1.3,2,2,61,46,68,67,83,76
+Harry Maguire,82,CB,Normal,2.5,2,3,50,53,64,70,81,84
+Mateo Kovacic,82,CM,Normal,1.5,4,4,76,68,81,86,67,70
+Jesse Lingard,82,CAM,Normal,1.3,4,3,80,78,76,83,58,72
+Jamie Vardy,82,ST,Normal,4.5,3,3,88,81,65,75,55,75
+Lucas Torreira,82,CDM,Normal,1,3,3,75,67,77,80,81,75
+Ruben Neves,82,CM,Normal,1,3,4,62,74,83,76,70,73
+Marcos Alonso,81,LB,Normal,2,3,3,66,73,79,77,79,79
+Luke Shaw,81,LB,Normal,3.3,3,2,82,54,75,80,80,78
+James Milner,81,CM,Normal,1.2,3,4,61,70,82,78,77,78
+Moussa Sissoko,81,CM,Normal,5,3,3,80,70,78,79,79,89
+Granit Xhaka,81,CM,Normal,95,3,3,51,67,81,71,69,78
+Ryan Fraser,81,LM,Normal,1.2,3,4,90,73,78,83,46,61
+Dani Ceballos,81,CM,Normal,90,4,3,69,67,79,84,68,68
+Pablo Fornals,81,CAM,Normal,1.1,4,3,67,76,79,80,71,68
+Tanguy Ndombele,81,CM,Normal,1.4,4,3,80,65,78,87,70,78
+Nemanja Matic,81,CDM,Normal,95,3,3,48,68,77,72,80,78
+Henrikh Mkhitaryan,81,RM,Normal,,4,5,78,76,78,82,55,66
+Luka Milivojevic,81,CDM,Normal,80,2,2,55,67,76,68,78,84
+Abdoulaye Doucoure,81,CDM,Normal,90,3,3,69,74,73,76,79,82
+Victor Lindelof,81,CB,Normal,1,3,4,74,50,72,73,82,78
+Wilfred Ndidi,81,CDM,Normal,80,3,4,71,62,67,74,83,82
+Benjamin Mendy,80,LB,Normal,4.5,3,3,81,51,77,77,77,77
+Danny Rose,80,LB,Normal,2.6,3,3,77,62,74,79,80,75
+Erik Lamela,80,RM,Normal,1.9,4,2,75,77,79,82,51,72
+Dejan Lovren,80,CB,Normal,1.2,2,4,54,40,59,63,80,78
+Mathew Ryan,80,GK,Normal,80,1,4,81,75,82,83,53,78
+Deulofeu,80,RF,Normal,1.1,4,4,88,73,75,87,30,56
+Hector Bellerin,80,RB,Normal,4,3,3,92,51,70,77,76,66
+Rafael Jimenez,80,ST,Normal,1.2,3,4,78,78,71,75,47,79
+Bernard,80,LM,Normal,1.8,4,4,87,69,76,85,38,44
+Andreas Christensen,80,CB,Normal,1.3,2,3,68,31,63,69,82,72
+Youri Tielemans,80,CM,Normal,90,4,5,63,78,82,78,68,67
+Tiemoue Bakayoko,80,CDM,Normal,,3,3,66,48,69,74,79,85
+Harry Winks,80,CM,Normal,1,3,3,70,58,77,83,71,66
+Tom Heaton,80,GK,Normal,90,1,3,79,78,74,82,56,81
+Ben Foster,80,GK,Normal,95,1,3,79,79,73,81,49,78
+Sergio Romero,80,GK,Normal,1.2,1,3,79,76,81,83,46,79
+Etienne Capoue,80,CDM,Normal,90,3,3,52,71,74,73,78,77
+Ralf Fahrmann,80,GK,Normal,95,1,1,82,79,44,84,42,79
+Manuel Lanzini,80,CAM,Normal,1,4,3,77,72,78,85,32,50
+Roberto Pereyra,80,LM,Normal,90,4,4,75,73,79,83,61,67
+Callum Wilson,80,ST,Normal,2.9,4,3,87,78,67,77,39,75
+Alex Oxlade-Chamberlain,80,CM,Normal,1.5,4,4,82,73,78,83,66,73
+Kurt Zouma,80,CB,Normal,1.3,2,3,64,51,59,56,78,83
+Michael Keane,80,CB,Normal,1.8,2,3,60,49,62,66,80,79
+Nathan Ake,80,CB,Normal,1.2,2,3,75,53,70,72,81,77
+Andre Gomes,80,CDM,Normal,1.5,4,4,65,71,78,80,73,80
+Martin Dubravka,80,GK,Normal,1,1,2,77,80,81,81,47,79
+Diogo Jota,80,LF,Normal,85,4,5,83,77,70,84,53,76
+Joe Gomez,80,CB,Normal,1.3,3,3,81,30,64,68,79,76
+Eric Bailly,80,CB,Normal,85,3,3,76,42,58,63,79,80
+Miguel Almiron,80,LW,Normal,65,4,2,89,74,76,81,48,63
+Eric Dier,79,CDM,Normal,1.2,2,3,54,63,71,65,80,84
+Aaron Wan-Bissaka,79,RB,Normal,5.1,4,2,87,50,63,78,80,72
+Nacho Monreal,79,LB,Normal,,3,3,63,61,71,74,80,68
+Sead Kolasinac,79,LB,Normal,1.4,3,2,75,62,72,72,75,87
+Angeliño,79,LB,Normal,4.6,4,3,85,64,79,80,72,78
+Ben Davies,79,LB,Normal,1.3,3,3,73,58,75,75,78,74
+Ben Chilwell,79,LB,Normal,2.1,3,3,78,49,71,77,76,75
+Jonny Evans,79,CB,Normal,1,2,4,56,32,59,55,80,75
+Mamadou Sakho,79,CB,Normal,95,2,2,53,33,65,57,78,83
+Joshua King,79,CF,Normal,2,4,3,88,79,69,79,38,75
+Jack Wilshere,79,CM,Normal,1,3,2,64,68,80,81,63,66
+Guaita,79,GK,Normal,80,1,3,80,80,77,80,51,76
+Phil Jones,79,CB,Normal,1,2,3,55,51,61,58,78,76
+Serge Aurier,79,RB,Normal,1.8,3,3,77,59,73,76,77,76
+Ross Barkley,79,CAM,Normal,1.9,4,5,70,73,77,80,56,73
+James Tarkowski,79,CB,Normal,1,2,4,58,45,66,64,79,78
+Leandro Trossard,79,LW,Normal,1,4,4,83,80,76,82,30,62
+Fred,79,CM,Normal,1,4,4,76,73,75,80,74,69
+Fabian Schar,79,CB,Normal,1.4,2,4,62,66,71,69,80,75
+Jefferson Lerma,79,CDM,Normal,95,3,4,73,64,72,73,78,80
+James Maddison,79,CAM,Normal,85,4,4,75,72,82,79,39,57
+Richarlison,79,RM,Normal,1.7,4,5,84,77,72,81,45,79
+Allan Saint-Maximin,79,RW,Normal,2.6,5,4,93,70,70,86,23,63
+Ruben Loftus-Cheek,79,CM,Normal,1.7,4,3,70,67,76,80,62,79
+Seamus Coleman,79,RB,Normal,1.4,3,3,74,65,73,77,79,71
+Adam Lallana,79,CM,Normal,1.3,4,5,67,71,79,82,62,65
+Andriy Yarmolenko,79,RM,Normal,1.1,4,2,68,80,78,81,42,70
+Willy Boly,79,CB,Normal,90,2,4,64,35,62,62,78,82
+Nick Pope,79,GK,Normal,95,1,3,78,80,75,79,49,80
+James Ward-Prowse,79,CM,Normal,1,3,3,60,71,85,77,62,64
+Jonny,79,LWB,Normal,1,4,3,77,52,70,75,78,70
+Alex Iwobi,79,LM,Normal,1.3,4,3,80,64,74,82,28,68
+Jean-Philippe Gbamin,79,CDM,Normal,1,3,3,80,57,73,74,78,83
+Christian Pulisic,79,LW,Normal,85,4,4,90,68,70,83,36,58
+Fabian Balbuena,79,CB,Normal,1,2,3,56,40,52,52,80,79
+Wesley,79,ST,Normal,1,3,3,77,76,68,73,38,88
+Shkodran Mustafi,79,CB,Normal,1.6,2,3,60,57,63,62,77,77
+Michy Batshuayi,79,ST,Normal,1,4,5,76,79,58,78,33,72
+Ryan Bertrand,78,LB,Normal,1.1,3,3,76,53,70,76,76,70
+Ben Mee,78,CB,Normal,1.4,2,3,61,42,58,62,79,80
+Christian Kabasele,78,CB,Normal,1.1,2,3,70,50,51,62,78,77
+Johann Berg Gundmundsson,78,RM,Normal,1,4,4,75,74,78,77,61,70
+Shane Duffy,78,CB,Normal,2.7,2,3,47,45,51,49,78,80
+Steve Cook,78,CB,Normal,1.2,2,3,53,34,55,61,78,75
+Florian Lejeune,78,CB,Normal,1.4,2,3,49,57,61,66,78,79
+Jamaal Lascelles,78,CB,Normal,1.2,2,3,59,28,51,58,78,80
+Leander Dendoncker,78,CM,Normal,95,2,4,67,72,77,71,78,83
+Divock Origi,78,ST,Normal,1.8,4,4,82,76,67,75,27,74
+Joelinton,78,ST,Normal,1,3,4,78,75,60,76,43,81
+Oleksandr Zinchenko,78,LB,Normal,2.7,3,3,71,66,80,79,77,66
+Declan Rice,78,CDM,Normal,95,2,3,62,37,64,68,77,77
+Nathaniel Clyne,78,RB,Normal,1.5,3,2,71,61,70,77,77,69
+Michail Antonio,78,RM,Normal,1.4,4,3,85,72,73,78,56,82
+Pascal Gross,78,CM,Normal,95,4,4,58,72,82,74,60,72
+Andros Townsend,78,RM,Normal,1.2,4,4,78,77,75,79,38,69
+Lewis Dunk,78,CB,Normal,2.5,2,3,46,40,55,61,78,77
+Matt Doherty,78,RWB,Normal,1.8,3,4,74,63,71,73,74,78
+Marcos Rojo,78,CB,Normal,1.6,3,2,67,59,68,65,76,76
+Jannik Vestergaard,78,CB,Normal,95,2,4,34,49,61,49,80,77
+Ibrahim Amadou,78,CDM,Normal,80,3,3,71,55,66,71,76,81
+Max Meyer,78,CM,Normal,90,4,4,67,62,79,83,65,65
+Mario Lemina,78,CM,Normal,,3,3,72,68,76,78,72,72
+Ayoze Perez,78,CF,Normal,2.4,4,4,76,75,67,81,54,66
+Yerry Mina,78,CB,Normal,1.7,2,3,51,54,55,57,78,80
+Issa Diop,78,CB,Normal,1.3,2,3,67,36,52,56,79,79
+Ismaila Sarr,78,RM,Normal,1.2,4,2,94,77,68,80,22,64
+Steven Defour,78,CM,Normal,,3,3,60,71,78,77,74,68
+Kevin Mirallas,78,LM,Normal,,4,4,76,73,76,80,43,61
+James Tomkins,78,CB,Normal,1.1,2,3,41,32,57,55,80,75
+Javier Hernandez,78,ST,Normal,,3,3,70,77,64,75,31,59
+Jose Holebas,78,LB,Normal,1.3,3,2,69,65,75,74,76,76
+Troy Deeney,78,ST,Normal,85,2,3,57,79,67,71,37,85
+Ashley Barnes,78,ST,Normal,1.3,3,4,62,78,68,74,47,81
+Victor Wanyama,78,CDM,Normal,1.1,2,3,51,65,67,70,79,82
+Danny Welbeck,78,ST,Normal,1,3,3,77,74,70,76,43,74
+Emerson,77,LB,Normal,1.3,3,3,79,59,68,78,74,62
+Teemu Pukki,77,ST,Normal,90,3,3,77,75,58,75,33,69
+Theo Walcott,77,RM,Normal,1.5,3,3,87,72,70,78,39,61
+Glenn Murray,77,ST,Normal,2.1,2,3,31,78,61,68,42,72
+Jonjo Shelvey,77,CM,Normal,1.5,3,3,62,72,79,73,62,74
+Chris Wood,77,ST,Normal,1.5,2,3,70,76,59,69,40,79
+Davy Propper,77,CM,Normal,90,4,3,62,70,73,76,67,75
+Conor Coady,77,CB,Normal,1,2,3,47,59,73,66,78,74
+Will Hughes,77,RM,Normal,95,4,3,64,64,78,78,68,64
+Romain Saiss,77,CDM,Normal,70,3,3,62,53,70,69,76,74
+Mohamed Elneny,77,CDM,Normal,,3,3,59,63,72,71,74,74
+Pierre-Emile Hojbjerg,77,CM,Normal,1.3,3,4,61,70,74,74,73,79
+David Brooks,77,RM,Normal,1,4,4,75,71,75,79,48,66
+Lewis Cook,77,CM,Normal,90,3,4,70,63,75,78,66,69
+Vallejo,77,CB,Normal,1,2,3,71,41,55,63,77,67
+Djibril Sidibe,77,RB,Normal,1.5,3,4,77,62,74,74,73,79
+Patrick Cutrone,77,ST,Normal,95,3,3,73,74,56,74,29,69
+Scott McTominay,77,CDM,Normal,70,3,3,61,65,72,72,74,80
+Joe Hart,77,GK,Normal,75,1,3,74,75,67,81,58,75
+Ashley Young,77,RB,Normal,1.2,4,3,70,66,74,75,73,71
+Claudio Bravo,77,GK,Normal,1.4,1,3,77,76,84,77,56,75
+Morgan Schneiderlin,77,CDM,Normal,1,3,3,56,60,71,71,75,76
+Fabian Delph,77,LB,Normal,1.4,3,3,69,70,76,79,73,74
+Roberto,77,GK,Normal,1.1,1,2,80,70,73,82,46,74
+Angelo Ogbonna,77,CB,Normal,1.2,2,3,58,39,58,60,79,74
+Daryl Janmaat,77,RB,Normal,1.2,3,3,67,65,73,75,75,74
+Ashley Westwood,77,CM,Normal,75,3,3,60,60,79,74,74,76
+Cenk Tosun,77,ST,Normal,1.3,3,4,71,77,66,73,36,73
+Nathan Redmond,77,LM,Normal,1.2,4,3,84,71,71,81,27,52
+Marco van Ginkel,77,CM,Normal,1.6,3,4,64,77,77,75,70,70
+Jack Grealish,77,CAM,Normal,80,4,3,75,66,74,80,41,59
+Andreas Pereira,77,CM,Normal,90,4,4,73,74,78,78,66,69
+Sofiane Boufal,77,LM,Normal,90,4,4,78,67,71,86,27,52
+Jan Bednarek,77,CB,Normal,95,2,3,62,22,52,56,78,74
+Dominic Calvert-Lewin,77,ST,Normal,1.3,3,3,84,70,63,75,38,79
+Danny Drinkwater,77,CM,Normal,90,3,4,59,66,76,75,71,68
+Mahmoud Hassan,77,LW,Normal,75,4,5,84,74,73,79,35,65
+Gary Cahill,77,CB,Normal,75,2,3,41,58,51,57,78,74
+Robert Snodgrass,76,RM,Normal,1,3,3,61,74,77,77,47,71
+Sung Yueng Ki,76,CM,Normal,1.7,4,4,58,72,79,74,64,69
+Dale Stephens,76,CM,Normal,90,3,3,57,64,74,70,71,78
+Cheikhou Kouyate,76,CDM,Normal,90,3,3,69,65,61,69,76,85
+Tom Cleverley,76,CM,Normal,1,3,3,64,69,75,73,61,62
+Cedric,76,RB,Normal,1.2,3,4,77,66,70,75,73,70
+Ravel Morrison,76,CAM,Normal,80,3,4,78,69,75,78,50,57
+Mohamed Elyounoussi,76,LM,Normal,,4,4,78,71,75,76,39,63
+Bjorn Engels,76,CB,Normal,1,2,3,60,44,61,57,75,76
+Arthur Masuaku,76,LB,Normal,1.4,4,2,86,63,72,80,70,70
+DeAndre Yedlin,76,RWB,Normal,1.5,3,3,92,51,65,75,71,70
+Angus Gunn,76,GK,Normal,75,1,3,76,73,70,79,48,74
+Frederic Guilbert,76,RB,Normal,1.2,3,2,73,47,66,68,76,75
+Rob Holding,76,CB,Normal,1.2,2,3,60,34,59,65,77,73
+Phil Foden,76,CAM,Normal,3.9,4,3,74,64,74,79,55,55
+Filip Benkovic,76,CB,Normal,1.5,2,3,64,46,56,57,75,82
+Dennis Praet,76,CM,Normal,80,4,4,69,70,77,78,61,64
+Jay Rodriguez,76,ST,Normal,1.3,3,4,72,74,68,72,41,68
+Jose Izquierdo,76,LW,Normal,80,4,3,86,69,67,80,38,53
+Phil Jagielka,76,CB,Normal,95,2,3,46,44,57,54,77,65
+Gomes,76,GK,Normal,1.2,1,2,79,71,58,80,45,75
+Mark Noble,76,CM,Normal,95,3,3,41,67,76,73,72,70
+Jack Cork,76,CM,Normal,75,3,4,47,62,73,71,76,80
+James McArthur,76,CM,Normal,75,3,3,60,65,72,73,71,75
+Winston Reid,76,CB,Normal,90,2,3,52,52,48,50,77,73
+Craig Cathcart,76,CB,Normal,1.2,2,3,40,37,57,55,77,73
+Marc Albrighton,76,RM,Normal,1.4,3,3,70,68,75,76,59,69
+Patrick van Aanholt,76,LB,Normal,1.5,3,4,87,68,70,76,72,71
+Alex McCarthy,76,GK,Normal,65,1,2,77,75,64,80,57,75
+Aaron Cresswell,76,LB,Normal,1.4,3,3,71,59,73,75,74,67
+Kiko Femenia,76,RB,Normal,1.1,3,3,75,58,71,78,73,68
+Adam Smith,76,RB,Normal,1.3,3,3,71,60,71,74,75,69
+Andre Gray,76,ST,Normal,95,3,3,86,75,62,73,30,72
+Montoya,76,RB,Normal,1.9,3,4,77,61,71,72,73,69
+Danny Ings,76,ST,Normal,1.4,3,3,75,74,64,76,32,66
+Oriol Romeu,76,CDM,Normal,75,2,3,45,39,63,63,77,77
+Robbie Brady,76,LM,Normal,1,4,3,72,72,76,76,66,63
+Federico Fernández,76,CB,Normal,1.5,2,2,48,28,50,51,77,74
+Jurgen Locadia,76,ST,Normal,,3,4,73,75,71,73,36,73
+Charlie Taylor,76,LB,Normal,1.2,3,2,71,54,71,74,75,76
+Dwight Gayle,76,ST,Normal,1,3,4,81,77,58,73,28,61
+Isaac Hayden,76,CDM,Normal,1.3,2,4,58,55,64,68,74,76
+Camarasa,76,CM,Normal,70,3,3,63,73,74,75,69,73
+Florin Andone,76,ST,Normal,,3,3,75,75,63,74,51,78
+Kieran Tierney,76,LB,Normal,2.1,3,3,88,59,70,74,71,81
+Tammy Abraham,76,ST,Normal,90,3,3,74,74,57,69,31,68
+Moise Kean,76,ST,Normal,70,3,3,81,72,50,77,30,68
+Aaron Mooy,76,CM,Normal,90,3,3,59,69,77,73,69,74
+Adrián San Miguel Castillo,76,GK,Normal,1.2,1,2,79,72,68,80,45,72
+Marvelous Nakamba,76,CDM,Normal,95,3,2,74,49,63,72,75,82
+Arnaut Danjuma Groeneveld,76,LM,Normal,95,4,4,82,73,71,79,42,67
+Simon Francis,75,CB,Normal,1.1,2,4,51,44,67,64,75,71
+Pablo Zabaleta,75,RB,Normal,2.4,3,3,49,56,70,72,79,70
+Leighton Baines,75,LB,Normal,1.4,3,3,56,68,77,76,76,59
+Wayne Hennessey,75,GK,Normal,80,1,3,75,75,80,71,40,75
+Stefano Okaka,75,ST,Normal,,2,3,64,72,59,70,30,82
+Ciaran Clark,75,CB,Normal,1.3,2,2,52,52,53,55,76,73
+Martin Kelly,75,CB,Normal,85,2,3,50,44,60,62,75,71
+Dan Gosling,75,CM,Normal,90,3,3,55,68,73,70,70,69
+Oliver Norwood,75,CM,Normal,65,2,3,57,66,78,68,70,62
+Craig Dawson,75,CB,Normal,1.2,2,2,62,43,58,60,75,77
+Jordan Ayew,75,ST,Normal,2,4,3,76,74,70,75,45,72
+Josip Drmic,75,ST,Normal,90,3,4,76,75,67,73,38,70
+Calum Chambers,75,CDM,Normal,90,2,3,63,49,65,68,74,76
+Guido Carrillo,75,ST,Normal,,3,3,54,75,54,71,39,75
+Wesley Hoedt,75,CB,Normal,,2,3,54,46,59,57,75,74
+Yoshinori Muto,75,ST,Normal,95,3,4,77,72,68,78,41,62
+Harry Wilson,75,RW,Normal,85,3,3,79,76,72,74,40,49
+Ryan Sessegnon,75,LM,Normal,1.5,4,3,87,67,68,75,64,62
+Ainsley Maitland-Niles,75,RWB,Normal,1.4,4,3,85,59,70,76,68,67
+Mason Mount,75,CAM,Normal,1.7,3,4,71,68,74,76,46,53
+Artur Boruc,75,GK,Normal,1.9,1,3,76,75,65,75,38,77
+Wes Morgan,75,CB,Normal,1.4,2,2,29,34,41,55,76,72
+Willy Caballero,75,GK,Normal,2.2,1,3,74,72,71,74,44,76
+Scott Dann,75,CB,Normal,85,2,3,32,40,48,49,76,65
+Jonas Lossi,75,GK,Normal,1.9,1,2,74,76,67,77,31,74
+Andrew Surman,75,CM,Normal,90,3,4,52,65,75,70,66,66
+Adrian Mariappa,75,CB,Normal,1.2,2,3,55,34,57,62,76,70
+Carlos Sánchez,75,CDM,Normal,95,3,3,60,58,70,68,74,73
+Christian Benteke,75,ST,Normal,1.5,2,3,58,74,61,65,32,72
+Matteo Darmian,75,LB,Normal,,3,5,69,58,66,74,77,67
+Matt Ritchie,75,LWB,Normal,1,4,4,73,74,76,76,65,69
+James McCarthy,75,CDM,Normal,65,3,4,58,60,73,73,74,65
+Yannick Bolasie,75,LM,Normal,,5,4,81,69,69,79,34,75
+Junior Stanislas,75,LM,Normal,95,3,3,75,70,73,75,36,55
+Maya Yoshida,75,CB,Normal,95,2,4,55,41,51,63,76,72
+Matthew Lowton,75,RB,Normal,1,2,3,67,61,73,72,75,74
+Jeff Hendrick,75,RM,Normal,70,3,3,68,68,74,75,70,75
+Stuart Armstrong,75,CAM,Normal,80,3,4,75,73,72,74,64,72
+Emiliano Martinez,75,GK,Normal,95,1,3,75,74,76,76,58,73
+Paul Dummett,75,CB,Normal,1.5,2,2,66,40,63,67,76,72
+Paulo Gazzaniga,75,GK,Normal,1.5,1,3,76,74,84,78,64,75
+Nathaniel Chalobah,75,CDM,Normal,90,3,3,64,61,70,74,72,71
+Jetro Willems,75,LWB,Normal,85,3,4,74,62,76,76,71,76
+Solly March,75,LM,Normal,95,3,2,77,68,72,77,50,60
+John McGinn,75,CM,Normal,80,3,4,73,66,71,75,70,78
+Neal Maupay,75,ST,Normal,2.1,3,3,75,73,66,72,41,69
+Kenedy,75,LM,Normal,,4,2,76,67,71,78,57,61
+Demarai Gray,75,LW,Normal,95,4,3,88,67,67,80,37,55
+Lovre Kalinic,75,GK,Normal,80,1,2,80,74,43,78,34,75
+Mason Holgate,75,RB,Normal,1.4,3,3,70,42,66,66,76,71
+Tom Davies,75,CM,Normal,1,3,3,66,62,73,75,65,69
+Bernardo,75,LB,Normal,1.7,3,3,70,49,62,67,76,72
+Dean Henderson,75,GK,Normal,80,1,2,75,71,72,76,50,73
+Diogo Dalot,75,RB,Normal,1.2,3,3,80,60,71,77,70,77
+Harvey Barnes,75,LW,Normal,95,3,4,78,69,71,76,45,57
+Matteoo Guendouzi,75,CM,Normal,90,3,3,71,62,73,73,69,74
+Nampalys Mendy,75,CDM,Normal,80,3,3,69,55,70,74,73,71
+Alireza Jahanbakhsh,75,RW,Normal,80,4,4,79,73,69,79,42,70
+Yves Bissouma,75,CM,Normal,85,4,3,74,65,72,76,73,70
+Andy Carroll,75,ST,Normal,1,2,3,44,77,61,67,44,80
